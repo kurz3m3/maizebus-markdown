@@ -23,7 +23,7 @@ Added checks for unwanted characters in stop names. Some stop names had multiple
 **Flutter:**
 - [ ] Tested on:
   - [x] iOS Simulator
-  - [ ] Android Emulator
+  - [x] Android Emulator
   - [ ] Physical device
 
 
