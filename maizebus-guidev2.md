@@ -94,7 +94,7 @@ Closes #XX
 ## Checklist
 - [ ] Commit messages follow Conventional Commits
 - [ ] PR title follows `[type](scope): short description`
-- [ ] No `print()` / `console.log()` left in production code
+- [ ] No `print()` / `debugPrint()` / `console.log()` left in production code
 - [ ] Code follows project style (Dart + ESLint/Prettier for TS)
 - [ ] Secrets / keys not committed
 ```
